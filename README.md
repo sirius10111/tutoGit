@@ -1,2 +1,2 @@
 # Tutoriel
-Aprentissage de Git et GitHub
+Apprentissage de Git et GitHub
